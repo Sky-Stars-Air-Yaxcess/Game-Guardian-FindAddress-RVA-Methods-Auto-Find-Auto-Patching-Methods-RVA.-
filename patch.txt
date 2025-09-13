@@ -1,0 +1,53 @@
+need libbase(libil2cpp.so) No, because Game Guardian does it for us automatically.
+Using Only dump.cs
+Using Asslembly x64 arm64
+Using Only Game Guardian
+Using Game Guardian  Function
+Calculate Offset Xor (Game Guardian Function)
+Goto Xa libil2cpp.so Offset Calculator(Game Guardian Function)
+
+Copyright (c) 2025 Sky-Stars-Air-Yaxcess
+Repository:
+License: GNU General Public License v3.0 (GPL-3.0)
+Do not remove this header. All rights reserved under GPL v3.0.
+
+Author of the method  YouTube Channel Star_Space_Galaxy
+Author of the method My GitHub Sky-Stars-Air-Yaxcess
+My YouTube 2 Channel Star_Space_Local_Yaxcess
+
+My Connact Gmail y8068723@gmail.com
+
+This method was created for educational purposes only. Users are solely responsible for how they use it. We respect developers and urge them to fix vulnerabilities. Our goal is not to cause harm, but to promote fair and secure gameplay.
+
+It only works on Unity il2cpp 64-bit builds where you can dump the game.
+
+Also using dump.cs (He's needed for find class and methods)
+
+Also using hex or ASSLEMBER CODE AARCH64 (ARMx64)
+
+What methods of their types are available Void Bool The simplest. 
+
+Void can be terminated so that it stops running execute method code.
+
+Bool method can be enabled or disabled. 
+
+hex Void (ARMx64)
+
+hC0035FD6 (Return)
+
+ASSLEMBER CODE Void (ARMx64)
+
+~A8 RET (Return)
+
+hex BoolARM64x64)
+
+h000080D2 (disabled)
+h20008052 (enabled)
+
+ASSLEMBER CODE Bool (ARMx64)
+
+~A8 MOV	 X0, #0x0 (disabled)
+
+~A8 MOV	 X0, #0x1 (enabled)
+
+Yes, there are other variations of x64 and arm64 assembly instruction patching. However, you will have to figure those out on your own. All responsibility for their use, and how you choose to use them, rests on you.
