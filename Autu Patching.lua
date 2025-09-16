@@ -45,6 +45,6 @@ end
 
 gg.toast('Author Script My YouTube Channel Star_Space_Galaxy')
 gg.toast('Author Script My GitHub Sky-Stars-Air-Yaxcess')
-gg.sleep(100)
+gg.sleep(300)
 gg.toast('My GitHub Sky-Stars-Yaxcess')
 gg.toast('My YouTube 2 Channel Star_Space_Local_Yaxcess')
