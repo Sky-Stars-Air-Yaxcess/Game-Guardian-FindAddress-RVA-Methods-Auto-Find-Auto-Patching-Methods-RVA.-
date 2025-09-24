@@ -12,3 +12,6 @@ My Connact for Gmail y8068723@gmail.com
 This method script was created for educational purposes only. Users are solely responsible for how they use it. We respect developers and urge them to fix vulnerabilities. Our goal is not to cause harm, but to promote fair and secure gameplay!
 
 It only works on Unity il2cpp 64-bit builds where you can dump the game!
+
+For the clowns.
+​I have never stolen anything from anyone. If you see something similar, it means either someone actually stole from me, or it is a coincidence that it looks alike. It's also possible that we use the same work logic and code, which does not mean I have stolen anything.
