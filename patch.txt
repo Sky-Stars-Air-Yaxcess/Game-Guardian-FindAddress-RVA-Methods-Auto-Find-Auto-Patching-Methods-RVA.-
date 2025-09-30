@@ -1,21 +1,18 @@
 need libbase(libil2cpp.so) No, because Game Guardian does it for us automatically.
 Using Only dump.cs
-Using Asslembly x64 arm64
-Using Only Game Guardian
-Using Game Guardian  Function
-Calculate Offset Xor (Game Guardian Function)
-Goto Xa libil2cpp.so Offset Calculator(Game Guardian Function)
+Using Asslembly x64 AARCH64 (arm64)
+Calculate Offset Xor (it's Game Guardian Function)
+Goto Xa libil2cpp.so Offset Calculator( it's Game Guardian Function)
 
-Copyright (c) 2025 Sky-Stars-Air-Yaxcess My YouTube Channel Star_Space_Galaxy Channel 2 Star_Space_Local_Yaxcess
-Repository GitHub: https://github.com/Sky-Stars-Air-Yaxcess/Game-Guardian-FindAddress-RVA-Methods-Auto-Find-Auto-Patching-Methods-RVA.-
-License: GNU General Public License v3.0 (GPL-3.0)
-Do not remove this header. All rights reserved under GNU General Public License v3.0 (GPL-3.0) and Copyright violation (c) 2025
+Copyright (c) 2025 :GutHub Sky-Stars-Air-Yaxcess :YouTube my main channel Star_Space_Galaxy my second channel Star_Space_Local_Yaxcess my third channel Star_Y_1_Pro License GNU General Public License v3.0 (GPL-3.0) Do not remove this header. All rights reserved under GNU General Public License v3.0 (GPL-3.0) and Copyright violation (c) 2025 Sky-Stars-Air-Yaxcess my main channel Star_Space_Galaxy my second channel Star_Space_Local_Yaxcess my third channel Star_Y_1_Pro
 
-My Connact for Gmail y8068723@gmail.com
+My contact information: Gmail email address. y8068723@gmail.com
 
-This script was created for educational purposes only. Users are solely responsible for how they use it. We respect developers and urge them to fix vulnerabilities. Our goal is not to cause harm, but to promote fair and secure gameplay!
+This method was created for educational purposes only. Users are solely responsible for how they use it. We respect developers and urge them to fix vulnerabilities. Our goal is not to cause harm, but to promote fair and secure gameplay!
 
 It only works on Unity il2cpp 64-bit builds where you can dump the game.
+
+ the clowns I have never stolen anything from anyone. If you see something similar, it means either someone actually stole from me, or it is a coincidence that it looks alike. It's also possible that we use the same work logic and code, which does not mean I have stolen anything.
 
 Also using dump.cs (He's needed for find class and methods)
 
@@ -35,15 +32,15 @@ ASSLEMBER CODE Void (ARMx64)
 
 ~A8 RET (Return)
 
-hex BoolARM64x64)
+hex Bool (ARM64x64)
 
-h000080D2 (disabled)
-h20008052 (enabled)
+h000080D2 (disabled Bool)
+h20008052 (enabled Bool)
 
 ASSLEMBER CODE Bool (ARMx64)
 
-~A8 MOV	 X0, #0x0 (disabled)
+~A8 MOV	 X0, #0x0 (disabled Bool)
 
-~A8 MOV	 X0, #0x1 (enabled)
+~A8 MOV	 X0, #0x1 (enabled Bool)
 
 Yes, there are other variations of x64 and arm64 assembly instruction patching. However, you will have to figure those out on your own. All responsibility for their use, and how you choose to use them, rests on you.
