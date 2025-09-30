@@ -1,11 +1,10 @@
---Main Code Protected GNU General Public License v3.0(GPL 3.0) and copyright violation (c) Sky-Stars-Air-Yaxcess My Youtube Channel Star_Space_Galaxy Star_Space_Local_Yaxcess Channel 2
 
 function Patch(library, flag, offset, value)
     list = gg.getRangesList(library)
     for i in pairs(list) do
-        if list[i].state == "Xa" then -- Libary Module Framework  libil2cpp.so (Unity il2cpp)
-        
-        -- In Game Guardian, XA is where the library framework module (libil2cpp.so) is located. Sometimes it can also be found in CD.
+        if list[i].state == "Xa" then -- Libary Module Framework  libil2cpp.so (Unity il2cpp)      
+-- In Game Guardian, XA is where the library framework module (libil2cpp.so) is located. Sometimes it can also be found in CD.
+
             start = list[i].start
             break
         end
@@ -18,7 +17,7 @@ function Patch(library, flag, offset, value)
     gg.setValues(t)
 end
 
---Main Code Protected GNU General Public License v3.0(GPL 3.0) and copyright violation (c) Sky-Stars-Air-Yaxcess My YouTube Channel Star_Space_Galaxy.   Star_Space_Local_Yaxcess Channel 2
+-- main code Protected copyright violation (c) 2025 GitHub: Sky-Stars-Air-Yaxcess :YouTube my main channel Star_Space_Galaxy my second channel Star_Space_Local_Yaxcess my third channel Star_Y_1_Pro
 
 local menu = gg.choice({'Auto Patching',' '},nil,' Example Names Games and Version  Game Dinos Online 9.2.0')
 
@@ -29,23 +28,18 @@ if menu == 1 then
   Patch("libil2cpp.so", 4, 0x113B234 , "hC0035FD6") --Immortal life (remove damage player blocked)
 end
 
---example type
+--example type for methods
 
--- 4 void
+-- 4 number for void
 
--- 32 bool
+-- 32 number for bool
 
--- Copyright (c) 2025 Sky-Stars-Air-Yaxcess My YouTube Channel Star_Space_Galaxy Channel 2 Star_Space_Local_Yaxcess
--- Repository GitHub: https://github.com/Sky-Stars-Air-Yaxcess/Game-Guardian-FindAddress-RVA-Methods-Auto-Find-Auto-Patching-Methods-RVA.-
--- License: GNU General Public License v3.0 (GPL-3.0)
--- Do not remove this header. All rights reserved under GNU General Public License v3.0 (GPL-3.0) and Copyright violation (c) 2025
+-- Copyright (c) 2025 :GutHub Sky-Stars-Air-Yaxcess :YouTube my main channel Star_Space_Galaxy my second channel Star_Space_Local_Yaxcess my third channel Star_Y_1_Pro License GNU General Public License v3.0 (GPL-3.0) Do not remove this header. All rights reserved under GNU General Public License v3.0 (GPL-3.0) and Copyright violation (c) 2025 Sky-Stars-Air-Yaxcess my main channel Star_Space_Galaxy my second channel Star_Space_Local_Yaxcess my third channel Star_Y_1_Pro
 
--- My Connact for Gmail y8068723@gmail.com
+--My contact information: Gmail email address. y8068723@gmail.com
 
 -- This works for any Unity game, but only on a 64-bit il2cpp build where you can create a game dump!
 
--- This method  script was created for educational purposes only. Users are solely responsible for how they use it. We respect developers and urge them to fix vulnerabilities. Our goal is not to cause harm, but to promote fair and secure gameplay!
+-- This method  script was created for educational purposes only. Users are solely responsible for how they use it. We respect developers and urge them to fix vulnerabilities. Our goal is not to cause harm, but to promote fair and secure gameplay
 
-gg.toast('Author Script by YouTube Channel Star_Space_Galaxy')
-gg.sleep(600)
-gg.toast('Author Script by GitHub: Sky-Stars-Air-Yaxcess')
+-- the clowns I have never stolen anything from anyone. If you see something similar, it means either someone actually stole from me, or it is a coincidence that it looks alike. It's also possible that we use the same work logic and code, which does not mean I have stolen anything.!
